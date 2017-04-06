@@ -1,1 +1,7 @@
 install source from here: http://www.mega-nerd.com/libsndfile/
+
+
+resources:
+https://github.com/brunodigiorgi/pyAudioGraph
+https://supercollider.github.io/
+https://pypi.python.org/pypi/scikits.audiolab/
